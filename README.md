@@ -1,2 +1,2 @@
 # apna_college-demo
-Sampe of git repository
+Samp;e of git repository
